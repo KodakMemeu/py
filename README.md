@@ -1,7 +1,7 @@
 # My first something!
 ## stuff 01
 
-garbage / stuff 
+garbage / stuff  
 cos dalej
 
 ## stuff 02
