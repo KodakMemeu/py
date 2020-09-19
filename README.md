@@ -9,3 +9,12 @@ next line
 ```bash
 ps aux | grep bash
 ```
+
+## stuff 03
+
+```python
+a = 1
+b = 2
+a, b = b, a
+print(a)
+```
